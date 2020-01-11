@@ -41,6 +41,6 @@ https://github.com/pranayteaches/GeoServer_SLD_Stylesheets/tree/master/styleshee
 ### Type = points
 ![adsds](https://github.com/pranayteaches/GeoServer_SLD_Stylesheets/blob/master/stylesheets/PNG_file/point/point_archsites.PNG)
 ### Type = rasters
-![asx](https://github.com/pranayteaches/GeoServer_SLD_Stylesheets/blob/master/stylesheets/PNG_file/raster/raster_Aarc_sample.PNG)
+![asx](https://github.com/pranayteaches/GeoServer_SLD_Stylesheets/blob/master/stylesheets/PNG_file/raster/raster_arcarid.PNG)
 ###I also createda style group example(Ypu may see a group of different styles by me).
 ![ds](https://github.com/pranayteaches/GeoServer_SLD_Stylesheets/blob/master/stylesheets/PNG_file/sld_group_example.PNG)
