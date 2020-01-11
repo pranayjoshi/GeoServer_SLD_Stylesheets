@@ -18,9 +18,9 @@
      <Rule>
        <RasterSymbolizer>
          <ColorMap type="intervals">
-           <ColorMapEntry color="#e0f3db" quantity="150" />
-           <ColorMapEntry color="#43a2ca" quantity="200" />
-           <ColorMapEntry color="#a8ddb5" quantity="250" />
+           <ColorMapEntry color="#e0f3db" quantity="1500" />
+           <ColorMapEntry color="#43a2ca" quantity="2000" />
+           <ColorMapEntry color="#a8ddb5" quantity="2500" />
          </ColorMap>
        </RasterSymbolizer>
      </Rule>
